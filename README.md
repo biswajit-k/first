@@ -9,7 +9,7 @@ hello there how are you
 
 this file is edited
 
-- [] ok then
+- [ ] ok then
 - [x] checked
 ```python
 for i in range(n)
@@ -17,6 +17,7 @@ for i in range(n)
   
   ```
  ### code
- `is` - [x] correct 
- is - [] wrong
+ `is` - [x] correct
+ 
+ is - [ ] wrong
  
