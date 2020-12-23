@@ -9,11 +9,14 @@ hello there how are you
 
 this file is edited
 
--[] ok then
+- [] ok then
 - [x] checked
 ```python
 for i in range(n)
   print("hello!")
   
   ```
-  
+ ### code
+ `is` - [x] correct 
+ is - [] wrong
+ 
